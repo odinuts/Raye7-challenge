@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Raye7</string>
+    <string name="from_tv">From</string>
+    <string name="to_tv">To</string>
+    <string name="take_car_bt">Take my car</string>
+    <string name="request_a_pickup_bt">Request a pickup</string>
+    <string name="switcher">Switch</string>
+
+    <string name="open_activity">Open Autocomplete Activity</string>
+    <string name="selected_place">Last Selected Place:</string>
+    <string name="place_details">
+    <![CDATA[
+        <b>%1$s</b>
+        <br/>
+        <i>Place Id: %2$s</i>
+        <br/>
+        Address: %3$s
+        <br/>
+        Phone: %4$s
+        <br/>
+        Website: %5$s
+    ]]>
+    </string>
+    <string name="notifications">Notifications</string>
+    <string name="messages">Messages</string>
+    <string name="switch_locations">Switch locations</string>
+    <string name="gps_network_not_enabled">The location service isn\'t enabled</string>
+    <string name="open_location_settings">Enable</string>
+    <string name="cancel">Cancel</string>
+    <string name="err">Error</string>
+    <string name="request_canceled">You\'ve canceled the request</string>
+</resources>
