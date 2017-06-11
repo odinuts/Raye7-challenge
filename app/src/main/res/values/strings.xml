@@ -29,4 +29,5 @@
     <string name="cancel">Cancel</string>
     <string name="err">Error</string>
     <string name="request_canceled">You\'ve canceled the request</string>
+    <string name="url">https://maps.googleapis.com/maps/api/directions/</string>
 </resources>
